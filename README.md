@@ -36,12 +36,6 @@ spot
 grid
 RT -> Total completion time
 ```
-#### Description of the 5 random item generation (RIG) tasks used in the experiment.
-![image.png](Picture1.png)
-
-#### Sample descriptive statistics (n)
-
-![image.png](Picture2.png)
 
 ##### Age Distribution & Outliers
 ![image.png](Picture3.png)
@@ -62,3 +56,15 @@ The graph is showing the performance of a classification model at all classifica
 It is the measure of the ability of a classifier to distinguish between classes and is used as a summary of the ROC curve.
 
 ![image.png](auc.png)
+
+## Author
+
+* **Kristina Borovkova** - *Full Project* - [Link](https://github.com/borovkk/HumanBehavioralComplexity/blob/master/BehavioralComplexityAnalysis.ipynb)
+
+
+#### Description of the 5 random item generation (RIG) tasks used in the experiment.
+![image.png](Picture1.png)
+
+#### Sample descriptive statistics (n)
+
+![image.png](Picture2.png)
