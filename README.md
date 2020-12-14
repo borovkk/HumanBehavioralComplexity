@@ -43,17 +43,22 @@ RT -> Total completion time
 
 ![image.png](Picture2.png)
 
+##### Age Distribution & Outliers
 ![image.png](Picture3.png)
+
 inspired by Mauro Di Pietro
 [Full article on TowardsDataScience](https://towardsdatascience.com/machine-learning-with-python-classification-complete-tutorial-d2c99dc524ec)
 
 #### Confidence Intervals 
+
 ![image.png](Picture4.png)
 
 #### ROC curve (receiver operating characteristic curve) 
-The graph is showing the performance of a classification model at all classification thresholds
+The graph is showing the performance of a classification model at all classification thresholds.
+
 ![image.png](roc.png)
 
 #### AUC curve (area ander the curve) 
 It is the measure of the ability of a classifier to distinguish between classes and is used as a summary of the ROC curve.
+
 ![image.png](auc.png)
