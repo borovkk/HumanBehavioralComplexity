@@ -1,7 +1,6 @@
 # Classification and ROC Analysis
 
 #### Instructor: Dr. Dimitri Yatsenko
-#### Author: Kristina Borovkova
 #### Human Behavioral Complexity 
 
 Data from "Human behavioral complexity peaks at age 25", N. Gauvrit, H. Zenil, F. Soler-Toscano, J.-P. Delahaye, P. Brugger, PLOS Computational Biology, 2017
