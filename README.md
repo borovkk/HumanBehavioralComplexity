@@ -10,6 +10,9 @@ Data from "Human behavioral complexity peaks at age 25", N. Gauvrit, H. Zenil, F
 
 - Data source: [Dataset Link](https://github.com/algorithmicnaturelab/HumanBehavioralComplexity)
 
+## Author
+
+* **Kristina Borovkova** - *Full Project* - [Link](https://github.com/borovkk/HumanBehavioralComplexity/blob/master/BehavioralComplexityAnalysis.ipynb)
 
 ```
 sex
@@ -57,9 +60,6 @@ It is the measure of the ability of a classifier to distinguish between classes 
 
 ![image.png](auc.png)
 
-## Author
-
-* **Kristina Borovkova** - *Full Project* - [Link](https://github.com/borovkk/HumanBehavioralComplexity/blob/master/BehavioralComplexityAnalysis.ipynb)
 
 
 #### Description of the 5 random item generation (RIG) tasks used in the experiment.
